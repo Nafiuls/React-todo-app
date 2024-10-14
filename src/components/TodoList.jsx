@@ -1,5 +1,11 @@
+import TodoCard from "./TodoCard";
+
 const TodoList = () => {
-  return <div>todo list</div>;
+  return (
+    <div>
+      <TodoCard />
+    </div>
+  );
 };
 
 export default TodoList;

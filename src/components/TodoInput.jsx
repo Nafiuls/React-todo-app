@@ -1,5 +1,3 @@
-const TodoInput = () => {
-  return <div>todo input</div>;
-};
-
-export default TodoInput;
+export default function TodoInput() {
+  return <div></div>;
+}
